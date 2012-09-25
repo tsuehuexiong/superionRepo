@@ -1,4 +1,5 @@
-superionRepo
+Team: Superion
+
 Tsuehue Xiong
 Johnathan Ly
 Adam Bachmeier
